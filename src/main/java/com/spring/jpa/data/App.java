@@ -1,4 +1,4 @@
-package com.spring.jpa2.data;
+package com.spring.jpa.data;
 
 
 import javax.persistence.Column;

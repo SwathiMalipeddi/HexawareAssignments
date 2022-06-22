@@ -1,8 +1,8 @@
-package com.spring.jpa2.controller;
+package com.spring.jpa.controller;
 
 
-import com.spring.jpa2.data.Mobile;
-import com.spring.jpa2.service.MobileService;
+import com.spring.jpa.data.Mobile;
+import com.spring.jpa.service.MobileService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,8 +1,8 @@
-package com.spring.jpa2.service;
+package com.spring.jpa.service;
 
 
-import com.spring.jpa2.data.Mobile;
-import com.spring.jpa2.repository.MobileRepository;
+import com.spring.jpa.data.Mobile;
+import com.spring.jpa.repository.MobileRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
